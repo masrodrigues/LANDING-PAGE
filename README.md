@@ -3,3 +3,6 @@
  ![image](https://github.com/masrodrigues/LANDING-PAGE/assets/84645887/e62dbd93-22a4-4407-8ff0-729755d7e155)
 
 
+div align="center"
+img src="https://github.com/masrodrigues/LANDING-PAGE/assets/84645887/e62dbd93-22a4-4407-8ff0-729755d7e155" width="150px" /
+/div
